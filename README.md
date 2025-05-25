@@ -60,7 +60,7 @@ visibility: 'public',
 1. **「Start cource」** を右クリックし、リンクを新しいタブで開きます。
 2. 新しいタブでは、ほとんどのプロンプトが自動的に入力されます。
    - オーナーとして、個人アカウントまたはリポジトリをホストする組織を選択します。
-   - プライベートリポジトリは [Actions の分数を使用](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions) するため、パブリックリポジトリを作成することをお勧めします。
+   - プライベートリポジトリは [Actions の分単位での課金](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions) が発生するため、パブリックリポジトリを作成することをお勧めします。
    - 下にスクロールし、フォームの下部にある **「リポジトリを作成」** ボタンをクリックします。
 3. 新しいリポジトリが作成されたら、約 20 秒待ってからページを更新します。新しいリポジトリの README に記載されている手順に従ってください。
 
